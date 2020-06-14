@@ -1,12 +1,12 @@
 # Thank You Card! - [Coder's way of Expressing](https://github.com/smilegupta/ThankyouCard-GouravSharma)
-[![ThankYou](https://img.shields.io/badge/ThankYouCard-dodgerblue.svg?style=for-the-badge)](https://smilegupta.github.io/ThankyouCard-GouravSharma/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://smilegupta.github.io/ThankYouCard-Srushith/)
+[![ThankYou](https://img.shields.io/badge/ThankYouCard-dodgerblue.svg?style=for-the-badge)](https://smilegupta.github.io/ThankyouCard-GouravSharma/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://smilegupta.github.io/ThankyouCard-GouravSharma/)
 > **99.9% of people just say "ThankYou" to each other with the same 8 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
 
-[![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://smilegupta.github.io/ThankYouCard-Srushith/)
+[![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://smilegupta.github.io/ThankyouCard-GouravSharma/)
 
-### Designing a [website](https://smilegupta.github.io/ThankYouCard-Srushith/) to say somebody Thank you is always one of the great ideas!
+### Designing a [website](https://smilegupta.github.io/ThankyouCard-GouravSharma/) to say somebody Thank you is always one of the great ideas!
 
-> #### Click [here](https://smilegupta.github.io/ThankYouCard-Srushith/) to view live demo!
+> #### Click [here](https://smilegupta.github.io/ThankyouCard-GouravSharma/) to view live demo!
 
 ## Technology Stack Used
 
